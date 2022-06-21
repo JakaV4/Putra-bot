@@ -53,7 +53,7 @@ global.snh = 'https://nhentai.net/g/365296/'
 /*============== PAYMENT ==============*/
 global.pdana = '088214464429'
 global.povo = '-'
-global.pgopay = '088214464429'
+global.pgopay = '081210475688'
 global.ppulsa = '088214464429'
 global.ppulsa2 = '088214464429'
 global.psaweria = '-'
