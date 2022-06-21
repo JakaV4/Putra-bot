@@ -51,25 +51,25 @@ global.sdc = 'https://instagram.com/itsme_nitsu'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '081335334848'
+global.pdana = '088214464429'
 global.povo = '-'
-global.pgopay = '085785694474'
-global.ppulsa = '081335334848'
-global.ppulsa2 = '081335334848'
+global.pgopay = '088214464429'
+global.ppulsa = '088214464429'
+global.ppulsa2 = '088214464429'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '79111309292'
-global.nomorown = '6285785694474'
-global.namebot = 'VīoLaꪶ͢Botzꫂ⁩'
-global.nameown = 'ζλκλꪶ͢Kunꫂ⁩'
+global.nomorbot = '6288214464429'
+global.nomorown = '6288214464429'
+global.namebot = 'Putraꪶ͢Botzꫂ⁩'
+global.nameown = 'Putra Store'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285785694474'],
-  ['6285785694474'],
-  ['6285785694474'],
+  ['6288214464429'],
+  ['6288214464429'],
+  ['6288214464429'],
   ['6285785694474', 'LETTA ! 🐰', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -116,13 +116,13 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = '                「 VīoLaꪶ͢Botzꫂ⁩ あ⁩ 」' //Main Watermark
+global.wm = '                「 Putraꪶ͢Botzꫂ⁩ あ⁩ 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘VīoLaꪶ͢Chanꫂ⁩˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ VīoLaꪶ͢Botzꫂ⁩'
+global.wm3 = '⫹⫺ Putraꪶ͢Botzꫂ⁩'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
-global.author = '                「 VīoLaꪶ͢Botzꫂ⁩ あ⁩ 」'
+global.author = '                「 Putraꪶ͢Botzꫂ⁩ あ⁩ 」'
 
 
 /*============== LOGO ==============*/
